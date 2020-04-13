@@ -1,6 +1,6 @@
 package simpledb;
 
-import java.io.Serializable;
+import java.io.Serializable;  
 
 /**
  * The common interface for any class that can compute an aggregate over a
