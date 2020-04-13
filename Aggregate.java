@@ -1,7 +1,7 @@
 package simpledb;
 
 import java.util.*; 
-
+ 
 /**
  * The Aggregation operator that computes an aggregate (e.g., sum, avg, max,
  * min). Note that we only support aggregates over a single column, grouped by a
