@@ -1,6 +1,6 @@
 package simpledb;
 
-import java.lang.Exception; 
+import java.lang.Exception;  
 
 /** Generic database exception class */
 public class DbException extends Exception {
