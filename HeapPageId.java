@@ -1,5 +1,5 @@
 package simpledb;
-
+ 
 /** Unique identifier for HeapPage objects. */
 public class HeapPageId implements PageId {
 
