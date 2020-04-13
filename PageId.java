@@ -2,7 +2,7 @@ package simpledb;
 
 /** PageId is an interface to a specific page of a specific table. */
 public interface PageId {
-
+ 
     /** Return a representation of this page id object as a collection of
         integers (used for logging)
 
