@@ -1,6 +1,6 @@
 package simpledb;
 import java.util.Vector; 
-
+ 
 /** Class returned by {@link JoinOptimizer#computeCostAndCardOfSubplan} specifying the
     cost and cardinality of the optimal plan represented by plan.
 */
