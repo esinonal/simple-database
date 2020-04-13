@@ -2,7 +2,7 @@ package simpledb;
 
 import java.io.*;
 import java.util.ArrayList; 
-
+ 
 /**
  * HeapFileEncoder reads a comma delimited text file or accepts
  * an array of tuples and converts it to
