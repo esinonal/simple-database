@@ -1,7 +1,7 @@
 package simpledb;
 
 import java.util.NoSuchElementException;
-
+ 
 /** Helper for implementing DbFileIterators. Handles hasNext()/next() logic. */
 public abstract class AbstractDbFileIterator implements DbFileIterator {
 
