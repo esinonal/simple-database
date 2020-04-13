@@ -1,6 +1,6 @@
 package simpledb;
 
-import java.lang.Exception;
+import java.lang.Exception; 
  
 /** Exception that is thrown when a deadlock occurs. */
 public class DeadlockException extends Exception {
