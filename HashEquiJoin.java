@@ -1,7 +1,7 @@
 package simpledb;
 
 import java.util.*;
-
+ 
 /**
  * The Join operator implements the relational join operation.
  */
