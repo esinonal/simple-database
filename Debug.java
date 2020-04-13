@@ -1,5 +1,5 @@
 package simpledb;
- 
+  
 /**
  * Debug is a utility class that wraps println statements and allows
  * more or less command line output to be turned on.
