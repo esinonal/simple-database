@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * The common interface for any class that can compute an aggregate over a
- * list of Tuples.
+ * list of Tuples. 
  */
 public interface Aggregator extends Serializable {
     static final int NO_GROUPING = -1;
