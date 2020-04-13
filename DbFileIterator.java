@@ -1,6 +1,6 @@
 package simpledb;
 import java.util.*;
-
+ 
 /** 
  * DbFileIterator is the iterator interface that all SimpleDB Dbfile should
  * implement.
