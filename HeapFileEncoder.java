@@ -1,7 +1,7 @@
 package simpledb;
 
 import java.io.*;
-import java.util.ArrayList;
+import java.util.ArrayList; 
 
 /**
  * HeapFileEncoder reads a comma delimited text file or accepts
